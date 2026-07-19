@@ -1,11 +1,9 @@
-# Titanic-Visualization-Dashboard
-A Mini Data Visualization Dashboard built using Python, Pandas, Matplotlib, and Seaborn on the Titanic dataset. This project includes data cleaning, feature engineering, exploratory data analysis (EDA), and interactive visualizations with key insights to identify survival patterns based on passenger demographics and travel information.
+
 
 # Titanic Visualization Dashboard
 
 ## Project Overview
-This project is a Mini Data Visualization Dashboard created using Python, Pandas, Matplotlib, and Seaborn. The analysis is performed on the Titanic dataset to identify patterns related to passenger survival.
-
+A Mini Data Visualization Dashboard built using Python, Pandas, Matplotlib, and Seaborn on the Titanic dataset. This project includes data cleaning, feature engineering, exploratory data analysis (EDA), and interactive visualizations with key insights to identify survival patterns based on passenger demographics and travel information.
 ## Features
 - Data Cleaning
 - Feature Engineering
